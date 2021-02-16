@@ -4,6 +4,10 @@
 
 This repository contains codes to get raw text Chinese couplets, codes to train four models, and codes to generate a couplet response using saved models.
 
+## Requirement
+
+pytorch 1.2
+
 ## File Structure
 
 Crawling raw text couplets and preprocessing raw texts are in [utils](./utils) folder.
